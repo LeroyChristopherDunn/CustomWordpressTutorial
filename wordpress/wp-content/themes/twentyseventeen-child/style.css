@@ -1,0 +1,15 @@
+/*
+Theme Name: Twenty Seventeen Child
+Theme URL: http://hostinger-tutorials.com
+Description: Twenty Seventeen Child Theme
+Author: John Doe
+Author URL: http://hostinger-tutorials.com
+Template: twentyseventeen
+Version: 1.0.0
+Text Domain: twentyseventeen-child
+*/
+
+.site-content-contain {
+    background-color: #e7f6ff;
+    position: relative;
+}
